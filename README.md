@@ -1,6 +1,6 @@
 ## aframe-viewable-component
 
-Restrict [A-Frame](https://aframe.io) camera rotation to a maximum number of degrees across the horizontal & vertical planes.  When the camera is rotated to the maximum (maxyaw, maxpitch), the camera will be prevented from further rotation.
+Restrict [A-Frame](https://aframe.io) camera rotation to a maximum number of degrees across the horizontal & vertical planes.  When the camera is rotated to the maximum (maxyaw, maxpitch), the camera will be prevented from further rotation in that direction.
 
 ### API
 
