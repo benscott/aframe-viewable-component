@@ -1,6 +1,6 @@
 ## aframe-viewable-component
 
-Restrict [A-Frame](https://aframe.io) camera rotation to a maximum horizontal/vertical number of degrees.
+Restrict [A-Frame](https://aframe.io) camera rotation to a maximum number of degrees across the horizontal & vertical planes.
 
 ### API
 
